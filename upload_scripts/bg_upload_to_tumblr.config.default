@@ -1,0 +1,17 @@
+[Information]
+latest_uploaded = 
+
+[Tumblr]
+key = {getkey}
+secret = {getsecret}
+token = {gettoken}
+token_secret = {gettokensecret}
+blog_name = {nameofyourblog}
+tags = example, test, tag
+tweet_text = This text will be included in all posts
+
+[Application]
+search_directory = /home/pi/PB_archive/
+interval = 15
+n_last_images = 5
+

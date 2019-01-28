@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Start JL Photobooth
+Comment=Starts up Jimmy's photobooth
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=/home/pi/scripts/jlPhotobooth/scripts/start_photobooth.sh
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;

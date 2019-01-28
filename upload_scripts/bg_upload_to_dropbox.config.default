@@ -1,0 +1,11 @@
+[Information]
+latest_uploaded = 
+
+[Dropbox]
+shared_folder = /Shared/
+upload_script = /home/pi/jlPhotobooth/scripts/dropbox_uploader.sh
+
+[Application]
+search_directory = /home/pi/PB_archive/
+interval = 15
+n_last_images = 5

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dim LEDs
+Comment=Dim all LEDs attached tot he pi GPIO
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=/home/pi/scripts/jlPhotobooth/scripts/pwm_init.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;

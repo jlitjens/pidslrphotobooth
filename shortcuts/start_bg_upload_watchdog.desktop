@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Start Background Upload Watchdog
+Comment=Starts up the auto background uploader
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=/usr/local/bin/supervisord -c /home/pi/scripts/jlPhotobooth/upload_scripts/supervisord.conf
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;

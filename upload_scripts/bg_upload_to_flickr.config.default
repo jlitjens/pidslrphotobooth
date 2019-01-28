@@ -1,0 +1,15 @@
+[Information]
+latest_uploaded = 
+
+[Flickr]
+key = {getkey}
+secret = {getsecret}
+photo_set = Photobooth
+make_public = 1
+is_hidden = 2
+
+[Application]
+search_directory = /home/pi/PB_archive/
+interval = 15
+n_last_images = 5
+

@@ -1,0 +1,14 @@
+[Information]
+latest_uploaded = 
+
+[Drive]
+client_secret_file = gdrive_credentials.json
+application_name = photobooth
+share_with = yourgmailaccount
+shared_folder = PB_archive
+
+[Application]
+search_directory = /home/pi/PB_archive/
+date_directory = False
+interval = 15
+n_last_images = 5
